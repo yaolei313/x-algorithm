@@ -1,1 +1,4 @@
-__pycache__/
+target/
+.idea/
+Cargo.lock
+.DS_Store
